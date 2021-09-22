@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background: #74bdb7;
+    font: 700 16px 'Montserrat', sans-serif;
+  }

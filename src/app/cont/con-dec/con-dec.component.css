@@ -1,0 +1,9 @@
+.turn {
+    font-size: 2.3rem;
+    margin-left: 0.4rem;
+    color: #36a6d4;
+}
+
+.dotted {
+    border: 1px solid black;
+}

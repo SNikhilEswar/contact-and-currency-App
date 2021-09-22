@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "contact-d50df": {
+      "hosting": {
+        "co-cu": [
+          "contact-d50df"
+        ]
+      }
+    }
+  }
+}
